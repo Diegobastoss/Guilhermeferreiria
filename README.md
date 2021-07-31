@@ -1,7 +1,7 @@
 
 
-👋 Hi, I'm Guilherme wave I am a JavaScript/TypeScript developer with passion about open source software, currently working as  Front-end developer.
-I am also a JS/TS developer at where we build boutique software,
+👋 Hi, I'm Guilherme ferreira I am a JavaScript/TypeScript developer with passion about open source software, currently working as  Front-end developer.
+I am also a JS/TS developer at where we build model software.
 
 ## ✉️ contact me
 
